@@ -1,0 +1,8 @@
+[bumpr]
+file = setup.py
+vcs = git
+
+files = README.md
+
+[bump]
+message = Bump version to {version}
